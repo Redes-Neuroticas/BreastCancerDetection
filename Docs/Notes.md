@@ -18,3 +18,7 @@ Generally, mammography is conducted with 2 views (from 2 angles), because the po
 
 - https://albumentations.ai/docs/examples/pytorch_classification/
 
+## Pytorch
+
+- https://pytorch.org/tutorials/beginner/data_loading_tutorial.html
+
