@@ -1,6 +1,21 @@
 # BreastCancerDetection
 
 
+## Dataset Dir Tree
+
+./Datasets
+├── Originals
+├── Train
+│   ├── normal
+│   └── cancer
+├── Validation
+│   ├── normal
+│   └── cancer
+└── Test
+    ├── normal
+    └── cancer
+
+
 ## References
 
 - https://www.kaggle.com/competitions/rsna-breast-cancer-detection/overview
