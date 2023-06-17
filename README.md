@@ -1,8 +1,14 @@
 # BreastCancerDetection
 
+## Roteiro para apresentação
+
+ - [Roteiro](Jose/Apresentacao_roteiro.md)
+ - [Slides](https://docs.google.com/presentation/d/1UW8-Ib4c92fkoXUEwjCwXInnH9NZz4il1qsXsBAp5nE/edit?usp=sharing)
+   - Todos com permissão de escrita
 
 ## Dataset Dir Tree
-
+ - [Link para o dataset (512x256) no Google Drive](https://drive.google.com/drive/folders/1qxejMKYOFNKLkxw_5fMGl5yOFTgCsYD2?usp=sharing)
+```
 ./Datasets
 ├── Originals
 ├── Train
@@ -14,7 +20,7 @@
 └── Test
     ├── normal
     └── cancer
-
+```
 
 ## References
 
