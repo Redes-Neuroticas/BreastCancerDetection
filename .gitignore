@@ -1,6 +1,7 @@
 # custom ignore
 Datasets/*
 Datasets_Aug/*
+Datasets_Undersampling/*
 *.h5
 
 # Byte-compiled / optimized / DLL files
