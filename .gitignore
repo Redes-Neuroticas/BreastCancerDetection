@@ -1,8 +1,8 @@
 # custom ignore
 Datasets/*
-Datasets_Aug/*
-Datasets_Undersampling/*
+Datasets_*/*
 *.h5
+logs/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
