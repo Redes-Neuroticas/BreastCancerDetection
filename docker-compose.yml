@@ -1,0 +1,9 @@
+services:
+  tensorboard:
+    image: tensorflow/tensorflow:2.13.0rc2
+    container_name: tensorboard
+    ports:
+      - "6006:6006"
+    volumes:
+      - ./logs:/logs
+    command: tensorboard --logdir=/logs --bind_all
