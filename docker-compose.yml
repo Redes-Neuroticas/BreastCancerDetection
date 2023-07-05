@@ -1,6 +1,10 @@
 services:
   tensorboard:
-    image: tensorflow/tensorflow:2.13.0rc2
+    image: tensorboard
+    build: 
+      context: .
+      dockerfile: Dockerfile
+
     container_name: tensorboard
     ports:
       - "6006:6006"
